@@ -11,5 +11,6 @@ body{
     margin: 0;
     padding-right: 24px;
     padding-left: 96px;
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(255, 0, 0);
+/*     background-color: rgb(247, 247, 247); */
 }
